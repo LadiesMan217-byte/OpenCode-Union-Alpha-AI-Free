@@ -1,4 +1,4 @@
-# OpenCode Union Alpha AI Free
+# OpenCode Union Alpha AI Free (WINDOWS)
 
 **OpenCode Union Alpha AI Free** is the Windows OpenCode desktop with Union Alpha on OpenCode Zen and OpenRouter. Stealth coding model, 262k context, image in, tools.
 
